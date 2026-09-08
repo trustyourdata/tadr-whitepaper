@@ -13,4 +13,9 @@ Read the full document here:
 
 ## License
 
-© 2026 TrustYourData. All rights reserved.
+© 2026 TrustYourData.
+
+This whitepaper and the documentation in this repository are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+See [LICENSE](LICENSE) for details.

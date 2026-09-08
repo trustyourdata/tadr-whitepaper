@@ -2,8 +2,9 @@
 
 ## Task-Aware Dataset Readiness (TADR)
 
-Version 1.1  
-First published: March 2026
+Version 1.1.1  
+First published: March 2026  
+Last revised: September 2026
 
 © 2026 TrustYourData  
 [trustyourdata.ai](https://trustyourdata.ai)
@@ -453,7 +454,13 @@ build more reliable and trustworthy AI systems.
 
 ## License
 
-This document is published for informational and research purposes.
+© 2026 TrustYourData.
 
-Certain implementation details of the TrustYourData scoring engine remain
-proprietary and are not disclosed in this document.
+This whitepaper is licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0):
+
+https://creativecommons.org/licenses/by/4.0/
+
+This license applies to the published content of this whitepaper. It does not
+grant rights to TrustYourData software, trademarks, or proprietary technology
+and implementation details that are not disclosed in this document.
